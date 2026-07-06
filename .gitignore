@@ -1,0 +1,25 @@
+# ---- Build output ----
+Debug/
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.srec
+
+# ---- Atmel / Microchip Studio ----
+*.cproj
+*.componentinfo.xml
+*.atsln
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.user
+
+# ---- OS ----
+Thumbs.db
+.DS_Store
